@@ -6,7 +6,13 @@ public class Principal {
 
    
     public static void main(String[] args) {
-        System.out.println("Hello world Senac PI3A!!!");
+        
+        for(int i = 0; i < 10; i++){
+        
+            
+            System.out.println(i+" Hello world Senac PI3A!!!");
+        
+        }
     }
     
 }
